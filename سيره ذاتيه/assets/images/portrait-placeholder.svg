@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 460" width="320" height="460" role="img" aria-label="صورة شخصية مجردة">
+  <defs>
+    <linearGradient id="pp" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#7B3FA1"/>
+      <stop offset="100%" stop-color="#B88CC3"/>
+    </linearGradient>
+  </defs>
+  <rect width="320" height="460" fill="#120A20"/>
+  <ellipse cx="160" cy="110" rx="50" ry="55" fill="url(#pp)" opacity="0.95"/>
+  <ellipse cx="160" cy="180" rx="26" ry="24" fill="url(#pp)" opacity="0.9"/>
+  <path d="M115 230 Q160 258 160 320 Q160 382 115 442 Q110 430 115 385 Z" fill="url(#pp)" opacity="0.9"/>
+  <path d="M205 230 Q250 258 250 320 Q250 382 205 442 Q200 430 205 385 Z" fill="url(#pp)" opacity="0.9"/>
+  <ellipse cx="160" cy="360" rx="64" ry="40" fill="#120A20"/>
+  <rect x="90" y="388" width="140" height="28" rx="14" fill="#F4EAD6" opacity="0.35"/>
+  <rect x="100" y="420" width="120" height="12" rx="6" fill="#F4EAD6" opacity="0.2"/>
+  <circle cx="160" cy="420" r="4" fill="#F4EAD6" opacity="0.3"/>
+</svg>
